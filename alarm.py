@@ -3,6 +3,7 @@ import time
 import random
 import pygame
 import sys
+import numpy as np
 
 def check(alarmTime):
 	if len(alarmTime)==1:
